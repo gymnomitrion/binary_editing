@@ -13,4 +13,4 @@ Run Python script with argument providing name of output csv file:
 
 python /home/gymnomitrion/bimat_editing_sites.py results.csv
 
-
+Download 'liver_test.zip' for test dataset.
