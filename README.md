@@ -1,2 +1,2 @@
 # binary_editing
-See binary_editing Wiki page for usage information.
+Visit the project wiki documentation for usage information.
